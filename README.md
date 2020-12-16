@@ -41,7 +41,7 @@ There is 9 monitor and one plot to show the analytics of the program.
 •	Agents plot: this plot shows in graphical way the numbers of humans, bears and firebases.
 
 
-#Results:
+# Result:
 The goal of this project is to simulate and estimate the rate of success and failure of the people that are trying to reach to the safety zones. The project would also consider how the quantity of people, bears and obstacles and the count of firebases and also the speed of bears and humans would affect the result.
 
 
